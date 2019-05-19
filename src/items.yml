@@ -1,0 +1,96 @@
+## This is a Spigot Premium plugin!
+## This should only be used if you purchased this plugin!
+## Creator: Reheight
+## -------------------------------------------------------
+## GUI PORTION (Shown in GUI)
+## -------------------------------------------------------
+
+title: "&aItems"
+
+## -------------------------------------------------------
+## Item Setting Portion (Not GUI)
+## -------------------------------------------------------
+
+whitescroll:
+  name: "&eWhitescroll &7&o(Right Click)"
+  lore:
+    - ""
+    - "&7Apply this Whitescroll to a"
+    - "&7item to prevent the item from"
+    - "&7being destroyed when applying"
+    - "&7enchantments to the item!"
+  glow: false
+
+blackscroll:
+  name: "&9Blackscroll &7&o(Right Click)"
+  lore:
+    - ""
+    - "&7Apply this Blackscroll to a"
+    - "&7item to remove a random enchantment"
+    - "&7off of the item it's applied to!"
+  glow: false
+
+simple:
+  name: "&fSimple Enchantment &7&o(Right Click)"
+  lore:
+    - ""
+    - "&7Right click this book to receive"
+    - "&7a random enchantment that is"
+    - "&7supported by Tier 1!"
+  glow: false
+  max: 1
+  minimum: 1
+  supported:
+    - "Tunnel Vision"
+
+unique:
+  name: "&aUnique Enchantment &7&o(Right Click)"
+  lore:
+    - ""
+    - "&7Right click this book to receive"
+    - "&7a random enchantment that is"
+    - "&7supported by Tier 2!"
+  glow: false
+  max: 2
+  minimum: 1
+  supported:
+    - "Tunnel Vision"
+
+elite:
+  name: "&bElite Enchantment &7&o(Right Click)"
+  lore:
+    - ""
+    - "&7Right click this book to receive"
+    - "&7a random enchantment that is"
+    - "&7supported by Tier 3!"
+  glow: false
+  max: 3
+  minimum: 1
+  supported:
+    - "Tunnel Vision"
+
+ultimate:
+  name: "&eUltimate Enchantment &7&o(Right Click)"
+  lore:
+    - ""
+    - "&7Right click this book to receive"
+    - "&7a random enchantment that is"
+    - "&7supported by Tier 4!"
+  glow: false
+  max: 4
+  minimum: 1
+  supported:
+    - "Tunnel Vision"
+
+legendary:
+  name: "&6Legendary Enchantment &7&o(Right Click)"
+  lore:
+    - ""
+    - "&7Right click this book to receive"
+    - "&7a random enchantment that is"
+    - "&7supported by Tier 5!"
+  glow: false
+  max: 5
+  minimum: 1
+  supported:
+    - "Tunnel Vision"

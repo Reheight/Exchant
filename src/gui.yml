@@ -1,0 +1,73 @@
+## This is a Spigot Premium plugin!
+## This should only be used if you purchased this plugin!
+## Creator: Reheight
+## -------------------------------------------------------
+
+title: "&aEnchantments GUI"
+
+border:
+  name: "&f"
+  lore: ""
+
+whitescroll:
+  name: "&eWhite Scroll"
+  payment: money
+  price: 5000
+  lore:
+    - "&eCost: &6$5,000"
+    - "&7White Scrolls allow you to"
+    - "&7protect items from breaking!"
+
+blackscroll:
+  name: "&9Black Scroll"
+  payment: money
+  price: 2000
+  lore:
+    - "&eCost: &6$2,000"
+    - "&7Black Scrolls allow you to"
+    - "&7take off random enchantments!"
+
+simpleenchantment:
+  name: "&fSimple Enchantment &7&o(Right Click)"
+  payment: xp
+  price: 1
+  lore:
+    - "&eCost: &61 Level"
+    - "&7Select to receive the lowest"
+    - "&7Tier enchantment book!"
+
+uniqueenchantment:
+  name: "&aUnique Enchantment &7&o(Right Click)"
+  payment: xp
+  price: 2
+  lore:
+    - "&eCost: &62 Levels"
+    - "&7Select to receive the Tier 2"
+    - "&7enchantment book!"
+
+eliteenchantment:
+  name: "&bElite Enchantment &7&o(Right Click)"
+  payment: xp
+  cost: 3
+  lore:
+    - "&eCost: &63 Levels"
+    - "&7Select to receive the Tier 3"
+    - "&7enchantment book!"
+
+ultimateenchantment:
+  name: "&eUltimate Enchantment &7&o(Right Click)"
+  payment: xp
+  cost: 4
+  lore:
+    - "&eCost: &64 Levels"
+    - "&7Select to receive the Tier 4"
+    - "&7enchantment book!"
+
+legendaryenchantment:
+  name: "&6Legendary Enchantment &7&o(Right Click)"
+  payment: xp
+  cost: 5
+  lore:
+    - "&eCost: &65 Levels"
+    - "&7Select to receive the Tier 5"
+    - "&7enchantment book!"

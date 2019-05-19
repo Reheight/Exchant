@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Custom Enchantments:jar">
+    <output-path>$PROJECT_DIR$/../../Exported Java</output-path>
+    <root id="archive" name="Custom Enchantments.jar">
+      <element id="module-output" name="Custom Enchantments" />
+    </root>
+  </artifact>
+</component>

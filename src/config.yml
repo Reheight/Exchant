@@ -1,0 +1,12 @@
+## This is a Spigot Premium plugin!
+## This should only be used if you purchased this plugin!
+## Creator: Reheight
+## -------------------------------------------------------
+
+prefix: "&8[&aExchant&8] &r"
+
+allowTables: false
+allowAnvils: false
+allowMerchants: false
+
+allowRename: true

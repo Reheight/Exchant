@@ -1,0 +1,10 @@
+name: Exchant
+version: 1.0
+description: Variety for your server and the enchantment system!
+author: Reheight
+main: me.reheight.exchant.Main
+
+commands:
+  enchant:
+    usage: /enchant
+    description: Access the Exchant GUI!
